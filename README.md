@@ -1,3 +1,3 @@
 # git_practic
-##test
+## test
 gitの使い方練習
